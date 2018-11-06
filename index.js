@@ -13,8 +13,8 @@ let apiProxy = httpProxy.createProxy({
 
 
 let aUrls = [
-    "https://rhildred.github.io/",
-    "https://rhildred.github.io/CP202Assignment5/"
+    "https://github.com/CataLight/test1/Test1/index.html",
+    "https://github.com/CataLight/test1/Test2/index.html"
 ];
 
 app.all("/*", function(req, res) {
